@@ -14,11 +14,11 @@ inputs:
   mplabx_version:
     description: Version of MPLAB X to use
     required: true
-    default: "5.45"
+    default: "6.00"
   xc8_version:
     description: Version of the XC8 compiler to use
     required: true
-    default: "1.34"
+    default: "2.32"
 runs:
   using: docker
   image: Dockerfile

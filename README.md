@@ -14,11 +14,11 @@ The configuration of the project to build. Defaults to `default`.
 
 ### `mplabx_version`
 
-The version of [MPLAB X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide) to use. Defaults to `5.45`.
+The version of [MPLAB X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide) to use. Defaults to `6.00`.
 
 ### `xc8_version`
 
-The version of the [XC8 compiler](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers) to use. Defaults to `1.34`.
+The version of the [XC8 compiler](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers) to use. Defaults to `2.32`.
 
 ## Outputs
 
